@@ -1,2 +1,4 @@
-node_modules/
+abc.txt
 .env
+node_modules/
+.netlify
